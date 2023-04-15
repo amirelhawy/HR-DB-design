@@ -15,8 +15,7 @@ In this step, we will be turning our database model into a physical database.
 + Answer a series of questions using SQL commands to demonstrate our database was created and populated correctly
 
 
-![HR_ERD_design - Database ER diagram (crow's foot)](https://user-images.githubusercontent.com/61375401/232241353-31b6a855-7f93-4638-b64a-1e5990591281.png)
-
+![HR_ERD_design - Database ER diagram (crow's foot) (1)](https://user-images.githubusercontent.com/61375401/232244685-00acdb8c-aa8b-45c0-a5a9-c49511cd6964.png)
 
 
 
